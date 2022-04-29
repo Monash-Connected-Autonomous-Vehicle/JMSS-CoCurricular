@@ -12,3 +12,4 @@ With that, simply just click and drag the components that you need. We have show
 ## Simulating your circuit
 Now look to your top right. You can see this toolbar over here.<br>
 <img src="./images/4.png" alt="drawing" width="300"/><br>
+You would see a plethora of blocks that you can code from. We would look into text-base coding later. But now, let's go through the block-base coding. If you have used scratch before, this process of coding will seem pretty familiar.
