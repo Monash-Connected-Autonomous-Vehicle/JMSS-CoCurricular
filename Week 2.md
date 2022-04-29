@@ -6,4 +6,4 @@ Try looking at the tab on your left-hand side. You will be able to find this tab
 On that tab, click "Circuits". Once you click "Circuits", you would see a new function called "Create New Circuit". Clcik on it and let the magic begin! <br>
 <img src="./images/2.png" alt="drawing" width="200"/><br>
 ## Creating your circuit
-First of all, it looks overwhelming isn't it?
+First of all, it looks overwhelming isn't it? Have a look at your new space. You can see that on the right, you would be able to see all the basic components.
