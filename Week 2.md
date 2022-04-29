@@ -10,5 +10,5 @@ First of all, it looks overwhelming isn't it? Have a look at your new space. You
 <img src="./images/3.png" alt="drawing" width="200"/><br>
 With that, simply just click and drag the components that you need. We have shown you an example circuit on the slides and worksheet that you can refer to for your creation. Happy creating!
 ## Simulating your circuit
-Now look to your top right. You can see this toolbar over here.
-<img src="./images/4.png" alt="drawing" width="200"/><br>
+Now look to your top right. You can see this toolbar over here.<br>
+<img src="./images/4.png" alt="drawing" width="300"/><br>
