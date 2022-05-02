@@ -9,6 +9,9 @@ Go to (https://www.tinkercad.com/) and sign up
 
 
 ## Tutorial 1
+Let's make a hollow cube to get you familiar with some of tinkercad functions..........
+...............
+.....(Not completed)
 Once you've logged in, make sure 3D Designs is selected on the left and click Create new design.
 
 ![](images/TinkerSS/1.png)
@@ -57,6 +60,9 @@ The Final shape should be as seen below.
 
 
 ## Tutorial 2
+Now, let's get you familiar with incripting text on your part.
+
+Open a new workspace
 
 Add a cube and change the dimensions as seen below
 
@@ -87,8 +93,11 @@ Group both shapes and now you have a block with your word. :)
 
 ## Tutorial 3
 
-Now let's make a part for the project
-Make a workspace and edit the workplane
+Now let's make a part for your project.
+
+![](images/TinkerSS/52.PNG)
+
+Open a new workspace and edit the workplane
 
 ![](images/TinkerSS/28.PNG)
 ![](images/TinkerSS/29.PNG)
