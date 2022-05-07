@@ -16,7 +16,7 @@ Oh and if you need to change the colours of the wire, don't fret! Look at the ta
 <img src="./images/8.png" alt="drawing" width="200"/><br>
 You would be able to change the wire colour and the wire type from there.<br>
 Here is the example circuit that you would be creating today. Happy creating!<br>
-<img src="./images/9.png" alt="drawing" width="200"/><br>
+<img src="./images/9.png" alt="drawing" width="300"/><br>
 ## Simulating your circuit
 Now look to your top right. You can see this toolbar over here.<br>
 <img src="./images/4.png" alt="drawing" width="300"/><br>
@@ -25,4 +25,5 @@ Now it's time for us to code! Let's try to make the circuit blink for 2Hz when t
 <img src="./images/10.png" alt="drawing" width="300"/><img src="./images/11.png" alt="drawing" width="300"/><img src="./images/12.png" alt="drawing" width="300"/><br>
 Take note that there are 3 different loops you can choose from Tinkercad. Seeing that we want the code to go forever as of now, let's choose the left most loop, the 'forever' loop. I hope that it does not require that much explanation. Next, in order to determine what the code should do when the button is pressed, we need an if statement.<br>
 <img src="./images/13.png" alt="drawing" width="300"/><br>
-Take note that there is also an if-else statement that you could use, but that's if you wish for the code to do something <b>else</b> when the button is not pressed.
+Take note that there is also an if-else statement that you could use, but that's if you wish for the code to do something <b>else</b> when the button is not pressed. With each if statement, there must be a condition. Now drag your if statement into the loop. That would make the code run <b>forever</b>. We need the if statement to be true when the button value is equal to one. So with that, drag a compare and a 'read digital pin' block into the condition.
+<img src="./images/14.png" alt="drawing" width="300"/><br>
