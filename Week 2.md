@@ -7,7 +7,7 @@ On that tab, click "Circuits". Once you click "Circuits", you would see a new fu
 <img src="./images/2.png" alt="drawing" width="200"/><br>
 ## Creating your circuit
 First of all, it looks overwhelming isn't it? Have a look at your new space. You can see that on the right, you would be able to see all the basic components.<br>
-<img src="./images/3.png" alt="drawing" width="200"/><br>
+<img src="./images/3.png" alt="drawing" width="300"/><br>
 With that, simply just click and drag the components that you need. If you need to find a component, simply search it up, just click on the search bar on the tab. For example, if you wish to insert an Arduino, search up 'Arduino' and drag it as shown in this picture. <br>
 <img src="./images/6.png" alt="drawing" width="200"/><br>
 And don't forget to create your circuit! Try placing an Arduino and a breadboard beside each other. To create a wire, click on one of the holes from either the Arduino or the breadboard and link it to the other preferred hole. <br>
