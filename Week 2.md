@@ -21,7 +21,7 @@ Here is the example circuit that you would be creating today. Happy creating!<br
 Now look to your top right. You can see this toolbar over here.<br>
 <img src="./images/4.png" alt="drawing" width="300"/><br>
 You would see a plethora of blocks that you can code from. We would look into text-base coding later. But now, let's go through the block-base coding. If you have used scratch before, this process of coding will seem pretty familiar.<br>
-Now it's time for us to code! Let's try to make the circuit blink for 2Hz when the button is pressed. First of all, we need a loop.
+Now it's time for us to code! Let's try to make the circuit blink for 2Hz when the button is pressed. First of all, we need a loop.<br>
 <img src="./images/10.png" alt="drawing" width="300"/><img src="./images/11.png" alt="drawing" width="300"/><img src="./images/12.png" alt="drawing" width="300"/><br>
 Take note that there are 3 different loops you can choose from Tinkercad. Seeing that we want the code to go forever as of now, let's choose the left most loop, the 'forever' loop. I hope that it does not require that much explanation. Next, in order to determine what the code should do when the button is pressed, we need an if statement.<br>
 <img src="./images/13.png" alt="drawing" width="300"/><br>
