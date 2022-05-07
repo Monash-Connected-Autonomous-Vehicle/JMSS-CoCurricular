@@ -12,7 +12,7 @@ With that, simply just click and drag the components that you need. If you need 
 <img src="./images/6.png" alt="drawing" width="200"/><br>
 And don't forget to create your circuit! Try placing an Arduino and a breadboard beside each other. To create a wire, click on one of the holes from either the Arduino or the breadboard and link it to the other preferred hole. <br>
 <img src="./images/7.png" alt="drawing" width="200"/><br>
-Oh and if you need to change the colours of the wire, don't fret! Look at the tab above and you could see this option. <br>
+Oh and if you need to change the colours of the wire, don't fret! Look at the tab above and you could see this option. By convention, ground wires are black and Vcc wires are red.<br>
 <img src="./images/8.png" alt="drawing" width="200"/><br>
 You would be able to change the wire colour and the wire type from there.<br>
 Here is the example circuit that you would be creating today. Happy creating!<br>
@@ -20,4 +20,9 @@ Here is the example circuit that you would be creating today. Happy creating!<br
 ## Simulating your circuit
 Now look to your top right. You can see this toolbar over here.<br>
 <img src="./images/4.png" alt="drawing" width="300"/><br>
-You would see a plethora of blocks that you can code from. We would look into text-base coding later. But now, let's go through the block-base coding. If you have used scratch before, this process of coding will seem pretty familiar.
+You would see a plethora of blocks that you can code from. We would look into text-base coding later. But now, let's go through the block-base coding. If you have used scratch before, this process of coding will seem pretty familiar.<br>
+Now it's time for us to code! Let's try to make the circuit blink for 2Hz when the button is pressed. First of all, we need a loop.
+<img src="./images/10.png" alt="drawing" width="300"/><img src="./images/11.png" alt="drawing" width="300"/><img src="./images/12.png" alt="drawing" width="300"/><br>
+Take note that there are 3 different loops you can choose from Tinkercad. Seeing that we want the code to go forever as of now, let's choose the left most loop, the 'forever' loop. I hope that it does not require that much explanation. Next, in order to determine what the code should do when the button is pressed, we need an if statement.<br>
+<img src="./images/13.png" alt="drawing" width="300"/><br>
+Take note that there is also an if-else statement that you could use, but that's if you wish for the code to do something <b>else</b> when the button is not pressed.
