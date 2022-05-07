@@ -10,7 +10,13 @@ First of all, it looks overwhelming isn't it? Have a look at your new space. You
 <img src="./images/3.png" alt="drawing" width="200"/><br>
 With that, simply just click and drag the components that you need. If you need to find a component, simply search it up, just click on the search bar on the tab. For example, if you wish to insert an Arduino, search up 'Arduino' and drag it as shown in this picture. <br>
 <img src="./images/6.png" alt="drawing" width="200"/><br>
-We have shown you an example circuit on the slides and worksheet that you can refer to for your creation. Happy creating!
+And don't forget to create your circuit! Try placing an Arduino and a breadboard beside each other. To create a wire, click on one of the holes from either the Arduino or the breadboard and link it to the other preferred hole. <br>
+<img src="./images/7.png" alt="drawing" width="200"/><br>
+Oh and if you need to change the colours of the wire, don't fret! Look at the tab above and you could see this option. <br>
+<img src="./images/8.png" alt="drawing" width="200"/><br>
+You would be able to change the wire colour and the wire type from there.<br>
+Here is the example circuit that you would be creating today. Happy creating!<br>
+<img src="./images/9.png" alt="drawing" width="200"/><br>
 ## Simulating your circuit
 Now look to your top right. You can see this toolbar over here.<br>
 <img src="./images/4.png" alt="drawing" width="300"/><br>
