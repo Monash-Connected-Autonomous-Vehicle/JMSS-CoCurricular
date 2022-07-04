@@ -5,7 +5,7 @@ An Arduino board is the connector between each stage of the robotic loop. It con
 
 It consists of: a physical programmable circuit board (microcontroller)and a software IDE (Integrated Development Environment)
 
-![](images/TinkerSS/MCAV/Capture2.PNG)
+![](images/TinkerSS/MCAV/Capture 2.png)
 
 ![](images/TinkerSS/MCAV/ArduArduino.png)
 
