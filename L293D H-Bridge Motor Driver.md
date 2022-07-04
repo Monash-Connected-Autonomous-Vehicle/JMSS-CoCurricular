@@ -1,10 +1,10 @@
-# Tutorial 3 - Motor Driver
+# Tutorial 2 - Motor Driver
 
 Continuing on from the last tutorial, next we will explore the "act" portion of the robotics loop. 
 The act operation involves sending information to physical hardware that moves the robot. As you can imagine, 
 when the robot moves, all of its sensor information will change which triggers the loop again.
 
-![](TinkerSS/MCAV/Capture2.PNG)
+![image](https://user-images.githubusercontent.com/97108621/177081696-e19c0fbc-ce01-4909-b5d4-b843f3e8ce81.png)
 
 ## Role of H-Bridges in Driving Motors
 ***
@@ -16,17 +16,17 @@ While the speed control can be done fairly easily by a microcontroller (using Pu
 This is where H-Bridges step in. H-Bridges act as intermediary circuits which allow bi-directional current amplification, allowing the microcontroller to drive the motor in both directions while not getting damaged. 
 Some H-Bridges (Like the L293D) also provide additional pins for more convenient speed control.
 
-![](TinkerSS/MCAV/Capture1.PNG)
+![](images/TinkerSS/MCAV/Capture1.PNG)
 
 A H-Bridge is a circuit which can be used to control the direction of a DC motor. It contains four switching elements (usually transistors) which together with a motor form a H-like configuration. The switching elements form "complementary" pairs which allows the direction of current flow to the motor to be reversed if desired. In other words, the H-Bridge acts as a set of digitally controlled switches which can be used to control the voltage across a motor.
 
 
-![](TinkerSS/MCAV/Capture3.PNG)
+![](images/TinkerSS/MCAV/Capture3.PNG)
 
 The L293D is a very popular H Bridge IC. Internally, it contains two H Bridges allowing you to individually drive 2 motors bidirectionally up to 36V at 0.6A each (1A for short spurts). It also contains two additional pins for more convenient speed control (explained in detail later).
 
-![](TinkerSS/MCAV/Capture4.PNG)
-![](TinkerSS/MCAV/Capture5.PNG)
+![](images/TinkerSS/MCAV/Capture4.PNG)
+![](images/TinkerSS/MCAV/Capture5.PNG)
 
 | Name | Function |
 | --- | --- |
