@@ -5,9 +5,18 @@ An Arduino board is the connector between each stage of the robotic loop. It con
 
 It consists of: a physical programmable circuit board (microcontroller)and a software IDE (Integrated Development Environment)
 
-![image](https://user-images.githubusercontent.com/97108621/177081431-7f0219da-689a-4611-bd6e-86863cd45ed6.png)
-
-![](images/TinkerSS/MCAV/ArduArduino.png)
+<p align="center">
+  <img 
+    width="600"
+    height="400"
+    src="https://user-images.githubusercontent.com/97108621/177081431-7f0219da-689a-4611-bd6e-86863cd45ed6.png"
+  >
+  <img 
+    width="600"
+    height="400"
+    src="https://user-images.githubusercontent.com/97108621/177672490-a989749d-d754-49c2-9a53-8b46b28741c0.png"
+  >
+</p>
 
 The major components of Arduino UNO board are as follows:
 
@@ -42,7 +51,13 @@ The major components of Arduino UNO board are as follows:
 Breadboards are one of the most fundamental pieces when learning how to build circuits.
 A breadboard is a solderless construction base used for developing an electronic circuit and wiring for projects with microcontroller boards like Arduino.
 
-![](images/TinkerSS/MCAV/0193_Appendix_19.jpg)
+<p align="center">
+  <img 
+    width="600"
+    height="400"
+    src="https://user-images.githubusercontent.com/97108621/177672612-b4bc868f-d17b-4606-8696-2f7a17c609b3.png"
+  >
+</p>
 
 Each row is connected as a series connection
 
