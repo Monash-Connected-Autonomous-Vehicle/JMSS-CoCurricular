@@ -75,28 +75,63 @@ After setting up, open Arduino IDE
 
 * Connect the circuit as shown in the image below
 
-![](images/TinkerSS/MCAV/circuit_blonk.png)
-
-![](images/TinkerSS/MCAV/schematic.png)
+<p align="center">
+  <img 
+    width="500"
+    height="350"
+    src="https://user-images.githubusercontent.com/97108621/177673434-d3458e75-e44f-4ca7-8beb-3708093f662a.png"
+  >
+  <img 
+    width="500"
+    height="350"
+    src="https://user-images.githubusercontent.com/97108621/177673708-ab17d7b2-ec16-42f0-96fd-08243469afbe.png"
+  >
+</p>
 
 * Open your first sketch
   Open the LED blink example sketch: File > Examples >01.Basics > Blink.
 
-![](images/TinkerSS/MCAV/UNO_Load_Blink.jpg)
+<p align="center">
+  <img 
+    width="500"
+    height="350"
+    src="https://user-images.githubusercontent.com/97108621/177673960-6635fb8e-b2a4-4473-93be-bb964ec3a234.png"
+  >
+</p>
 
 * Select your board type and port
   You'll need to select the entry in the Tools > Board menu that corresponds to your Arduino board.
 
-![](images/TinkerSS/MCAV/UNO_BoardType.jpg)
+<p align="center">
+  <img 
+    width="500"
+    height="350"
+    src="https://user-images.githubusercontent.com/97108621/177674023-9ed75ef3-c619-46f3-a560-a9aa4a4878ae.png"
+  >
+</p>
 
 Select the serial device of the board from the Tools | Serial Port menu. This is likely to be COM3 or higher (COM1 and COM2 are usually reserved for hardware serial ports). To find out, you can disconnect your board and re-open the menu; the entry that disappears should be the Arduino board. Reconnect the board and select that serial port.
 
-![](images/TinkerSS/MCAV/UNO_Port.jpg)
+<p align="center">
+  <img 
+    width="500"
+    height="350"
+    src="https://user-images.githubusercontent.com/97108621/177674130-6027a0e5-6527-4e60-8316-0c26cbcf671b.png"
+  >
+</p>
+
 
 * Upload the program
 
   Now, simply click the "Upload" button in the environment. Wait a few seconds - you should see the RX and TX leds on the board flashing. If the upload is successful, the message "Done uploading." will appear in the status bar.
-  
+
+<p align="center">
+  <img 
+    width="500"
+    height="350"
+    src="https://user-images.githubusercontent.com/97108621/177673434-d3458e75-e44f-4ca7-8beb-3708093f662a.png"
+  >
+</p>
 ![](images/TinkerSS/MCAV/UNO_Upload.png)
   
   A few seconds after the upload finishes, you should see the pin 13 (L) LED on the board start to blink. If it does, congratulations! You've gotten Arduino up-and-running. 
